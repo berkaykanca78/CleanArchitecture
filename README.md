@@ -6,7 +6,7 @@
 - **Application**:
 - **Domain**:
 - **Infrastructure**:
-- **Persistance**:
+- **Persistance**: Controllerlar burada yer alacaktır.
 - **Presentation**:
 - **UnitTest**:
 - **WebApi**: 
